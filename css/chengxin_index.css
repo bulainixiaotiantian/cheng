@@ -7,7 +7,7 @@ header{
 	width:100%;
 	background:rgba(45,58,86,0.7);
 	height:0.58rem;
-	z-index: 10;
+	z-index: 100;
 }
 header .title{
 	font-size:0.19rem;
