@@ -12,6 +12,9 @@ img,input{
 }
 a{
 	text-decoration:none;color:inherit;
+	-webkit-tap-highlight-color: transparent;
+  	-webkit-touch-callout: none;
+  	-webkit-user-select: none;
 }
 i{
 	font-style:normal;
